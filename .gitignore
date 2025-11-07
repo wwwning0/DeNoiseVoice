@@ -1,0 +1,7 @@
+clean_testset_wav
+clean_trainset_28spk_wav
+noisy_testset_wav
+noisy_trainset_28spk_wav
+testset_txt
+trainset_28spk_txt
+__pycache__/
