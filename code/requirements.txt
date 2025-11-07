@@ -1,0 +1,8 @@
+torch>=2.0
+torchaudio>=2.0
+transformers>=4.30
+jiwer
+asteroid
+librosa
+pandas
+numpy

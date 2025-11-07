@@ -1,0 +1,825 @@
+noisy,clean,text
+noisy_testset_wav/p232_250.wav,clean_testset_wav/p232_250.wav,He says that he is no different from any other man.
+noisy_testset_wav/p232_010.wav,clean_testset_wav/p232_010.wav,"People look, but no one ever finds it."
+noisy_testset_wav/p232_137.wav,clean_testset_wav/p232_137.wav,The goals were good.
+noisy_testset_wav/p232_383.wav,clean_testset_wav/p232_383.wav,Talks are progressing.
+noisy_testset_wav/p232_247.wav,clean_testset_wav/p232_247.wav,She is well balanced.
+noisy_testset_wav/p232_276.wav,clean_testset_wav/p232_276.wav,"Everything will fall into place, it should be fine."
+noisy_testset_wav/p257_039.wav,clean_testset_wav/p257_039.wav,It's easy to talk about these things in the abstract.
+noisy_testset_wav/p257_324.wav,clean_testset_wav/p257_324.wav,The announcement was made after inquiries from a national newspaper.
+noisy_testset_wav/p232_213.wav,clean_testset_wav/p232_213.wav,He is slightly confused.
+noisy_testset_wav/p232_382.wav,clean_testset_wav/p232_382.wav,Five members were disciplined.
+noisy_testset_wav/p257_252.wav,clean_testset_wav/p257_252.wav,they fail to engage.
+noisy_testset_wav/p257_253.wav,clean_testset_wav/p257_253.wav,It is a mark of respect from the inmates.
+noisy_testset_wav/p257_377.wav,clean_testset_wav/p257_377.wav,"Well, it did last time, he was reminded."
+noisy_testset_wav/p232_284.wav,clean_testset_wav/p232_284.wav,The record companies have gone through the floor.
+noisy_testset_wav/p257_385.wav,clean_testset_wav/p257_385.wav,Emotions were complex.
+noisy_testset_wav/p232_322.wav,clean_testset_wav/p232_322.wav,"However, the groups denied the claims."
+noisy_testset_wav/p257_204.wav,clean_testset_wav/p257_204.wav,He knows a lot.
+noisy_testset_wav/p232_171.wav,clean_testset_wav/p232_171.wav,My life has been destroyed.
+noisy_testset_wav/p257_391.wav,clean_testset_wav/p257_391.wav,This is a huge confidence boost.
+noisy_testset_wav/p257_238.wav,clean_testset_wav/p257_238.wav,They may yet have the last laugh.
+noisy_testset_wav/p232_410.wav,clean_testset_wav/p232_410.wav,I was in a position to challenge for this event and didn't.
+noisy_testset_wav/p257_071.wav,clean_testset_wav/p257_071.wav,"Chris Smith, the culture secretary, said he was satisfied with the decision."
+noisy_testset_wav/p257_396.wav,clean_testset_wav/p257_396.wav,You wanted the evidence.
+noisy_testset_wav/p257_064.wav,clean_testset_wav/p257_064.wav,Sounds like The Sixth Sense?
+noisy_testset_wav/p257_362.wav,clean_testset_wav/p257_362.wav,He denied the charge.
+noisy_testset_wav/p232_147.wav,clean_testset_wav/p232_147.wav,"Crucially, though, United were still alive."
+noisy_testset_wav/p232_215.wav,clean_testset_wav/p232_215.wav,His third goal was superb.
+noisy_testset_wav/p257_110.wav,clean_testset_wav/p257_110.wav,It is normal.
+noisy_testset_wav/p257_410.wav,clean_testset_wav/p257_410.wav,The Edinburgh audience was able to understand the dialogue.
+noisy_testset_wav/p257_001.wav,clean_testset_wav/p257_001.wav,Please call Stella.
+noisy_testset_wav/p257_433.wav,clean_testset_wav/p257_433.wav,The whole region is in shock.
+noisy_testset_wav/p257_140.wav,clean_testset_wav/p257_140.wav,It's not true.
+noisy_testset_wav/p232_293.wav,clean_testset_wav/p232_293.wav,The Government is keen to promote the growth of friendly societies.
+noisy_testset_wav/p257_161.wav,clean_testset_wav/p257_161.wav,I've learned from my mistakes.
+noisy_testset_wav/p232_334.wav,clean_testset_wav/p232_334.wav,Later in the day he was forced to explain his position.
+noisy_testset_wav/p232_349.wav,clean_testset_wav/p232_349.wav,I could hardly move for the next couple of days.
+noisy_testset_wav/p232_138.wav,clean_testset_wav/p232_138.wav,What will happen then ?
+noisy_testset_wav/p232_367.wav,clean_testset_wav/p232_367.wav,He has seen the past.
+noisy_testset_wav/p232_153.wav,clean_testset_wav/p232_153.wav,I was in daily contact.
+noisy_testset_wav/p232_028.wav,clean_testset_wav/p232_028.wav,They should be so lucky.
+noisy_testset_wav/p232_191.wav,clean_testset_wav/p232_191.wav,I wish I could say something.
+noisy_testset_wav/p232_098.wav,clean_testset_wav/p232_098.wav,I wish I had put on a brighter tie.
+noisy_testset_wav/p232_151.wav,clean_testset_wav/p232_151.wav,It's a problem but it cannot become an excuse.
+noisy_testset_wav/p257_304.wav,clean_testset_wav/p257_304.wav,Kids are terrible.
+noisy_testset_wav/p232_355.wav,clean_testset_wav/p232_355.wav,On the front line beyond the bridge the scene was utter chaos.
+noisy_testset_wav/p257_207.wav,clean_testset_wav/p257_207.wav,"We have the experience, the courses, and an abundance of confidence."
+noisy_testset_wav/p257_244.wav,clean_testset_wav/p257_244.wav,He said he was impressed by the set-up at Celtic.
+noisy_testset_wav/p257_405.wav,clean_testset_wav/p257_405.wav,No preference emerged.
+noisy_testset_wav/p232_076.wav,clean_testset_wav/p232_076.wav,I had my suspicions.
+noisy_testset_wav/p257_045.wav,clean_testset_wav/p257_045.wav,That should do it.
+noisy_testset_wav/p232_266.wav,clean_testset_wav/p232_266.wav,They want to shut the Scottish Office.
+noisy_testset_wav/p232_133.wav,clean_testset_wav/p232_133.wav,"If not, a deal could take many months."
+noisy_testset_wav/p257_353.wav,clean_testset_wav/p257_353.wav,There is no signature.
+noisy_testset_wav/p257_221.wav,clean_testset_wav/p257_221.wav,She really suffered for her art.
+noisy_testset_wav/p257_090.wav,clean_testset_wav/p257_090.wav,Today I couldn't run on it.
+noisy_testset_wav/p232_055.wav,clean_testset_wav/p232_055.wav,It's very odd.
+noisy_testset_wav/p257_096.wav,clean_testset_wav/p257_096.wav,The peace process will be buried!
+noisy_testset_wav/p232_365.wav,clean_testset_wav/p232_365.wav,"However, it was well worth the wait."
+noisy_testset_wav/p232_271.wav,clean_testset_wav/p232_271.wav,"Brown is an interesting man, but he is not desperate."
+noisy_testset_wav/p257_214.wav,clean_testset_wav/p257_214.wav,His death was a tragic accident.
+noisy_testset_wav/p232_057.wav,clean_testset_wav/p232_057.wav,"It's not pretty, but it's effective."
+noisy_testset_wav/p232_161.wav,clean_testset_wav/p232_161.wav,We do not comment on the behaviour of our authors.
+noisy_testset_wav/p257_081.wav,clean_testset_wav/p257_081.wav,It may well have been.
+noisy_testset_wav/p257_095.wav,clean_testset_wav/p257_095.wav,"Two other men, including the taxi driver, were wounded in the attack."
+noisy_testset_wav/p232_242.wav,clean_testset_wav/p232_242.wav,It's quite a line-up!
+noisy_testset_wav/p257_191.wav,clean_testset_wav/p257_191.wav,The spokeswoman said the flat in London was very small.
+noisy_testset_wav/p232_053.wav,clean_testset_wav/p232_053.wav,It's the big omission.
+noisy_testset_wav/p257_281.wav,clean_testset_wav/p257_281.wav,He should have won.
+noisy_testset_wav/p232_070.wav,clean_testset_wav/p232_070.wav,There is an element of racism in Scotland.
+noisy_testset_wav/p232_348.wav,clean_testset_wav/p232_348.wav,That is the very reason why it was so vital.
+noisy_testset_wav/p257_213.wav,clean_testset_wav/p257_213.wav,I might come back.
+noisy_testset_wav/p232_139.wav,clean_testset_wav/p232_139.wav,I am totally devoted to this job.
+noisy_testset_wav/p257_172.wav,clean_testset_wav/p257_172.wav,Treatment is not an issue with these people.
+noisy_testset_wav/p232_320.wav,clean_testset_wav/p232_320.wav,Referees are easy targets.
+noisy_testset_wav/p257_188.wav,clean_testset_wav/p257_188.wav,"I think the Commission has been very, very slow to react."
+noisy_testset_wav/p232_030.wav,clean_testset_wav/p232_030.wav,They were described as being in a serious but stable condition yesterday.
+noisy_testset_wav/p232_308.wav,clean_testset_wav/p232_308.wav,We are in the end game.
+noisy_testset_wav/p232_175.wav,clean_testset_wav/p232_175.wav,You have got to get people from all sorts of different directions.
+noisy_testset_wav/p232_295.wav,clean_testset_wav/p232_295.wav,"Police were on the scene within minutes, but the killer had fled."
+noisy_testset_wav/p257_374.wav,clean_testset_wav/p257_374.wav,It is also claimed that he was murdered.
+noisy_testset_wav/p232_152.wav,clean_testset_wav/p232_152.wav,It was by the numbers.
+noisy_testset_wav/p232_277.wav,clean_testset_wav/p232_277.wav,She has every confidence in his performance of his duties.
+noisy_testset_wav/p257_179.wav,clean_testset_wav/p257_179.wav,Everyone can be bought.
+noisy_testset_wav/p232_227.wav,clean_testset_wav/p232_227.wav,At the top of the structure will remain the post of headteacher.
+noisy_testset_wav/p257_322.wav,clean_testset_wav/p257_322.wav,You feel the pride.
+noisy_testset_wav/p257_412.wav,clean_testset_wav/p257_412.wav,I recommend a tour.
+noisy_testset_wav/p232_034.wav,clean_testset_wav/p232_034.wav,It is marvellous.
+noisy_testset_wav/p232_114.wav,clean_testset_wav/p232_114.wav,We have to look at everything before we make any final decision.
+noisy_testset_wav/p257_033.wav,clean_testset_wav/p257_033.wav,I came to complete.
+noisy_testset_wav/p257_354.wav,clean_testset_wav/p257_354.wav,It's a long process.
+noisy_testset_wav/p257_144.wav,clean_testset_wav/p257_144.wav,He sees a difference in the style of the two teams.
+noisy_testset_wav/p257_205.wav,clean_testset_wav/p257_205.wav,He is slightly confused.
+noisy_testset_wav/p232_298.wav,clean_testset_wav/p232_298.wav,He should have won.
+noisy_testset_wav/p232_216.wav,clean_testset_wav/p232_216.wav,He would discuss the peace process in Northern Ireland.
+noisy_testset_wav/p257_386.wav,clean_testset_wav/p257_386.wav,He's already made history.
+noisy_testset_wav/p232_179.wav,clean_testset_wav/p232_179.wav,"However, the figures were disputed by the Scottish Prison Service."
+noisy_testset_wav/p257_434.wav,clean_testset_wav/p257_434.wav,The bill would be massive.
+noisy_testset_wav/p232_234.wav,clean_testset_wav/p232_234.wav,But she was.
+noisy_testset_wav/p257_278.wav,clean_testset_wav/p257_278.wav,It is a vote of confidence in the skills in Scotland.
+noisy_testset_wav/p232_120.wav,clean_testset_wav/p232_120.wav,It is rubbish.
+noisy_testset_wav/p232_211.wav,clean_testset_wav/p232_211.wav,Feel the heat ?
+noisy_testset_wav/p232_373.wav,clean_testset_wav/p232_373.wav,Mr Anderson was not acting in the course of his employment.
+noisy_testset_wav/p257_027.wav,clean_testset_wav/p257_027.wav,They should have a major rethink about the event for next year.
+noisy_testset_wav/p232_226.wav,clean_testset_wav/p232_226.wav,Mental health is a massive issue.
+noisy_testset_wav/p257_105.wav,clean_testset_wav/p257_105.wav,I didn't play well last year.
+noisy_testset_wav/p232_300.wav,clean_testset_wav/p232_300.wav,What has altered ?
+noisy_testset_wav/p232_224.wav,clean_testset_wav/p232_224.wav,That has been the easy part.
+noisy_testset_wav/p232_093.wav,clean_testset_wav/p232_093.wav,"However, it did not end that way."
+noisy_testset_wav/p232_296.wav,clean_testset_wav/p232_296.wav,He was obviously very genuine.
+noisy_testset_wav/p257_194.wav,clean_testset_wav/p257_194.wav,He has a lot of experience as captain in his career.
+noisy_testset_wav/p232_042.wav,clean_testset_wav/p232_042.wav,You must always attempt to raise the bar.
+noisy_testset_wav/p232_313.wav,clean_testset_wav/p232_313.wav,I never thought it would take this long.
+noisy_testset_wav/p257_400.wav,clean_testset_wav/p257_400.wav,I am the Son of Sam.
+noisy_testset_wav/p232_187.wav,clean_testset_wav/p232_187.wav,I've been there.
+noisy_testset_wav/p232_309.wav,clean_testset_wav/p232_309.wav,We are now looking at the degrees of injury.
+noisy_testset_wav/p232_223.wav,clean_testset_wav/p232_223.wav,It was a miserable afternoon in Fife.
+noisy_testset_wav/p232_207.wav,clean_testset_wav/p232_207.wav,I don't want to use it.
+noisy_testset_wav/p257_344.wav,clean_testset_wav/p257_344.wav,I wanted to go out on a high.
+noisy_testset_wav/p257_169.wav,clean_testset_wav/p257_169.wav,And I was happy for the happiness of my brothers.
+noisy_testset_wav/p257_141.wav,clean_testset_wav/p257_141.wav,I feel very grateful with everything.
+noisy_testset_wav/p232_074.wav,clean_testset_wav/p232_074.wav,Then followed a bout of flu.
+noisy_testset_wav/p232_048.wav,clean_testset_wav/p232_048.wav,But it might have done.
+noisy_testset_wav/p257_024.wav,clean_testset_wav/p257_024.wav,"This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue."
+noisy_testset_wav/p257_151.wav,clean_testset_wav/p257_151.wav,It opens the door to the Champions League.
+noisy_testset_wav/p257_002.wav,clean_testset_wav/p257_002.wav,Ask her to bring these things with her from the store.
+noisy_testset_wav/p232_350.wav,clean_testset_wav/p232_350.wav,Chambers said he would accept the place.
+noisy_testset_wav/p232_059.wav,clean_testset_wav/p232_059.wav,That's the truth.
+noisy_testset_wav/p257_411.wav,clean_testset_wav/p257_411.wav,"Now, however, it has undergone a dramatic decline."
+noisy_testset_wav/p232_204.wav,clean_testset_wav/p232_204.wav,We see the rapid reaction force as the way ahead.
+noisy_testset_wav/p232_407.wav,clean_testset_wav/p232_407.wav,We should have known.
+noisy_testset_wav/p232_310.wav,clean_testset_wav/p232_310.wav,He was solid.
+noisy_testset_wav/p257_357.wav,clean_testset_wav/p257_357.wav,I wouldn't want to miss that chance.
+noisy_testset_wav/p257_121.wav,clean_testset_wav/p257_121.wav,This is the first big idea of the Scottish Parliament election.
+noisy_testset_wav/p232_033.wav,clean_testset_wav/p232_033.wav,I would love it.
+noisy_testset_wav/p232_068.wav,clean_testset_wav/p232_068.wav,It is like a river running by my home.
+noisy_testset_wav/p232_045.wav,clean_testset_wav/p232_045.wav,It is urgent.
+noisy_testset_wav/p257_250.wav,clean_testset_wav/p257_250.wav,They are interior designers and architects.
+noisy_testset_wav/p232_091.wav,clean_testset_wav/p232_091.wav,It is a lifeline.
+noisy_testset_wav/p232_184.wav,clean_testset_wav/p232_184.wav,A career as a doctor is on hold.
+noisy_testset_wav/p232_331.wav,clean_testset_wav/p232_331.wav,He was then replaced by Ross.
+noisy_testset_wav/p232_088.wav,clean_testset_wav/p232_088.wav,"Others were in hiding, in fear of their lives."
+noisy_testset_wav/p232_236.wav,clean_testset_wav/p232_236.wav,We were awful.
+noisy_testset_wav/p257_028.wav,clean_testset_wav/p257_028.wav,Because we do not need it.
+noisy_testset_wav/p232_141.wav,clean_testset_wav/p232_141.wav,She died at her home.
+noisy_testset_wav/p257_029.wav,clean_testset_wav/p257_029.wav,Life was like a timetable.
+noisy_testset_wav/p257_038.wav,clean_testset_wav/p257_038.wav,It is great to have this beautiful new site in wonderful countryside.
+noisy_testset_wav/p257_298.wav,clean_testset_wav/p257_298.wav,This is the culture change in medicine.
+noisy_testset_wav/p257_330.wav,clean_testset_wav/p257_330.wav,He says that he is no different from any other man.
+noisy_testset_wav/p232_167.wav,clean_testset_wav/p232_167.wav,Waiting times for these services are too long.
+noisy_testset_wav/p232_232.wav,clean_testset_wav/p232_232.wav,It is perfectly evident that the time for an inquiry will come.
+noisy_testset_wav/p257_152.wav,clean_testset_wav/p257_152.wav,They did very well.
+noisy_testset_wav/p232_185.wav,clean_testset_wav/p232_185.wav,Mr Docherty said the whole family was shocked.
+noisy_testset_wav/p257_202.wav,clean_testset_wav/p257_202.wav,This gives a financial incentive to switch.
+noisy_testset_wav/p257_231.wav,clean_testset_wav/p257_231.wav,"On the ground, the West Bank was again the focus of violence."
+noisy_testset_wav/p232_332.wav,clean_testset_wav/p232_332.wav,Horses are drawn by ballot.
+noisy_testset_wav/p232_343.wav,clean_testset_wav/p232_343.wav,He also insisted that no concessions had been made to the French.
+noisy_testset_wav/p257_226.wav,clean_testset_wav/p257_226.wav,Broke the birdie record.
+noisy_testset_wav/p232_248.wav,clean_testset_wav/p232_248.wav,A change in that position would require a decision by the council.
+noisy_testset_wav/p257_349.wav,clean_testset_wav/p257_349.wav,"For one veteran, the memories remain vivid."
+noisy_testset_wav/p232_386.wav,clean_testset_wav/p232_386.wav,That left a bad taste in my mouth.
+noisy_testset_wav/p232_337.wav,clean_testset_wav/p232_337.wav,His legal adviser was also not in court yesterday.
+noisy_testset_wav/p232_092.wav,clean_testset_wav/p232_092.wav,Today I couldn't run on it.
+noisy_testset_wav/p257_132.wav,clean_testset_wav/p257_132.wav,The trial is funded solely by Edinburgh City Council.
+noisy_testset_wav/p257_143.wav,clean_testset_wav/p257_143.wav,Nobody in the world can get away from him.
+noisy_testset_wav/p232_384.wav,clean_testset_wav/p232_384.wav,There is no signature.
+noisy_testset_wav/p257_413.wav,clean_testset_wav/p257_413.wav,We are delighted with this outcome.
+noisy_testset_wav/p257_274.wav,clean_testset_wav/p257_274.wav,Who did the recruiting?
+noisy_testset_wav/p257_394.wav,clean_testset_wav/p257_394.wav,We haven't had any adverse reaction to the project.
+noisy_testset_wav/p257_075.wav,clean_testset_wav/p257_075.wav,Is there a new way forward?
+noisy_testset_wav/p257_076.wav,clean_testset_wav/p257_076.wav,I've not thought about it.
+noisy_testset_wav/p232_003.wav,clean_testset_wav/p232_003.wav,"Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob."
+noisy_testset_wav/p257_168.wav,clean_testset_wav/p257_168.wav,As far as we were concerned the deal with Kennedy was dead.
+noisy_testset_wav/p257_054.wav,clean_testset_wav/p257_054.wav,We were surprised to see the photograph.
+noisy_testset_wav/p232_007.wav,clean_testset_wav/p232_007.wav,The rainbow is a division of white light into many beautiful colors.
+noisy_testset_wav/p257_420.wav,clean_testset_wav/p257_420.wav,One must hope not!
+noisy_testset_wav/p232_326.wav,clean_testset_wav/p232_326.wav,It's not long enough.
+noisy_testset_wav/p232_165.wav,clean_testset_wav/p232_165.wav,"Again, we were lucky."
+noisy_testset_wav/p232_061.wav,clean_testset_wav/p232_061.wav,The story was first reported in the Spectator magazine.
+noisy_testset_wav/p232_393.wav,clean_testset_wav/p232_393.wav,A council spokesman said it had been a constructive meeting.
+noisy_testset_wav/p257_023.wav,clean_testset_wav/p257_023.wav,"If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow."
+noisy_testset_wav/p232_124.wav,clean_testset_wav/p232_124.wav,That's all right then.
+noisy_testset_wav/p232_073.wav,clean_testset_wav/p232_073.wav,There could be a way back.
+noisy_testset_wav/p232_231.wav,clean_testset_wav/p232_231.wav,I'd never seen a play about me.
+noisy_testset_wav/p257_239.wav,clean_testset_wav/p257_239.wav,You can feel at home in China.
+noisy_testset_wav/p232_267.wav,clean_testset_wav/p232_267.wav,That review will look at management across the sector as a whole.
+noisy_testset_wav/p257_091.wav,clean_testset_wav/p257_091.wav,We must look forward.
+noisy_testset_wav/p257_379.wav,clean_testset_wav/p257_379.wav,He repeated his call for an inquiry into the police response.
+noisy_testset_wav/p257_063.wav,clean_testset_wav/p257_063.wav,Have a look at our accounts.
+noisy_testset_wav/p232_270.wav,clean_testset_wav/p232_270.wav,Perhaps it's because I haven't finished the first two races.
+noisy_testset_wav/p232_358.wav,clean_testset_wav/p232_358.wav,It's not that clear-cut.
+noisy_testset_wav/p232_290.wav,clean_testset_wav/p232_290.wav,I saw it at a ruck.
+noisy_testset_wav/p232_195.wav,clean_testset_wav/p232_195.wav,I wanted to put myself on the line.
+noisy_testset_wav/p232_024.wav,clean_testset_wav/p232_024.wav,"This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue."
+noisy_testset_wav/p232_361.wav,clean_testset_wav/p232_361.wav,I kept going for her.
+noisy_testset_wav/p257_325.wav,clean_testset_wav/p257_325.wav,"Indeed, it was magical."
+noisy_testset_wav/p257_078.wav,clean_testset_wav/p257_078.wav,Mr Irvine said Mr Rafferty was now in good spirits.
+noisy_testset_wav/p232_254.wav,clean_testset_wav/p232_254.wav,Some families have even requested to leave the city.
+noisy_testset_wav/p232_041.wav,clean_testset_wav/p232_041.wav,I suspect the latter.
+noisy_testset_wav/p232_258.wav,clean_testset_wav/p232_258.wav,He said he intended to push for a judicial review.
+noisy_testset_wav/p232_329.wav,clean_testset_wav/p232_329.wav,We agreed to disagree.
+noisy_testset_wav/p257_164.wav,clean_testset_wav/p257_164.wav,"However, the French government has a major dilemma on its hands."
+noisy_testset_wav/p232_146.wav,clean_testset_wav/p232_146.wav,It was deployed in the Gulf War.
+noisy_testset_wav/p232_360.wav,clean_testset_wav/p232_360.wav,It could take years for the tunnel to be reopened.
+noisy_testset_wav/p257_308.wav,clean_testset_wav/p257_308.wav,The home team had an amazing start.
+noisy_testset_wav/p257_077.wav,clean_testset_wav/p257_077.wav,People must remain vigilant.
+noisy_testset_wav/p232_143.wav,clean_testset_wav/p232_143.wav,They did very well.
+noisy_testset_wav/p232_038.wav,clean_testset_wav/p232_038.wav,It was fit for royalty.
+noisy_testset_wav/p232_162.wav,clean_testset_wav/p232_162.wav,Tell it like it was ?
+noisy_testset_wav/p232_357.wav,clean_testset_wav/p232_357.wav,He had played well in that central role.
+noisy_testset_wav/p257_407.wav,clean_testset_wav/p257_407.wav,I've invented a village in East Lothian.
+noisy_testset_wav/p232_183.wav,clean_testset_wav/p232_183.wav,Everyone can be bought.
+noisy_testset_wav/p232_011.wav,clean_testset_wav/p232_011.wav,"When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow."
+noisy_testset_wav/p257_384.wav,clean_testset_wav/p257_384.wav,I never won a penny throughout my career.
+noisy_testset_wav/p232_108.wav,clean_testset_wav/p232_108.wav,He pleaded for caution.
+noisy_testset_wav/p257_224.wav,clean_testset_wav/p257_224.wav,"Her condition was yesterday described as critical, but stable."
+noisy_testset_wav/p232_032.wav,clean_testset_wav/p232_032.wav,They did not replace it with a conviction for culpable homicide.
+noisy_testset_wav/p232_174.wav,clean_testset_wav/p232_174.wav,I always felt they played for me.
+noisy_testset_wav/p257_043.wav,clean_testset_wav/p257_043.wav,The boy is no longer with us.
+noisy_testset_wav/p232_178.wav,clean_testset_wav/p232_178.wav,"It's the real thing, for sure."
+noisy_testset_wav/p232_210.wav,clean_testset_wav/p232_210.wav,That's the day job.
+noisy_testset_wav/p232_389.wav,clean_testset_wav/p232_389.wav,It has moved on in the last week.
+noisy_testset_wav/p257_263.wav,clean_testset_wav/p257_263.wav,And Michael was just great.
+noisy_testset_wav/p257_256.wav,clean_testset_wav/p257_256.wav,He raised the profile of the European Tour to the sky.
+noisy_testset_wav/p257_382.wav,clean_testset_wav/p257_382.wav,It was on fire.
+noisy_testset_wav/p257_335.wav,clean_testset_wav/p257_335.wav,It is long gone.
+noisy_testset_wav/p257_333.wav,clean_testset_wav/p257_333.wav,"Like his acting, it was an accident."
+noisy_testset_wav/p232_370.wav,clean_testset_wav/p232_370.wav,We will be homeless.
+noisy_testset_wav/p257_014.wav,clean_testset_wav/p257_014.wav,To the Hebrews it was a token that there would be no more universal floods.
+noisy_testset_wav/p257_381.wav,clean_testset_wav/p257_381.wav,"So, in a sense, it was a government subsidy."
+noisy_testset_wav/p257_158.wav,clean_testset_wav/p257_158.wav,There's a pause.
+noisy_testset_wav/p257_306.wav,clean_testset_wav/p257_306.wav,It should be equal.
+noisy_testset_wav/p257_007.wav,clean_testset_wav/p257_007.wav,The rainbow is a division of white light into many beautiful colors.
+noisy_testset_wav/p257_177.wav,clean_testset_wav/p257_177.wav,There is no evidence of a Little Scotland emerging.
+noisy_testset_wav/p257_265.wav,clean_testset_wav/p257_265.wav,"Everything will fall into place, it should be fine."
+noisy_testset_wav/p232_065.wav,clean_testset_wav/p232_065.wav,He was popular.
+noisy_testset_wav/p257_365.wav,clean_testset_wav/p257_365.wav,YOU thought it was a headache.
+noisy_testset_wav/p257_297.wav,clean_testset_wav/p257_297.wav,A thousand years ago the church was a powerful force in Europe.
+noisy_testset_wav/p257_430.wav,clean_testset_wav/p257_430.wav,The first minister is obviously concerned to hear about this incident.
+noisy_testset_wav/p232_374.wav,clean_testset_wav/p232_374.wav,The group is due to publish its report in the autumn.
+noisy_testset_wav/p232_107.wav,clean_testset_wav/p232_107.wav,"While they went on holiday, we got the contract."
+noisy_testset_wav/p257_398.wav,clean_testset_wav/p257_398.wav,I was very young.
+noisy_testset_wav/p232_209.wav,clean_testset_wav/p232_209.wav,There was an e-mail.
+noisy_testset_wav/p257_427.wav,clean_testset_wav/p257_427.wav,I was just overwhelmed.
+noisy_testset_wav/p232_366.wav,clean_testset_wav/p232_366.wav,It benefits the whole family.
+noisy_testset_wav/p257_312.wav,clean_testset_wav/p257_312.wav,We are in the end game.
+noisy_testset_wav/p257_286.wav,clean_testset_wav/p257_286.wav,The home was now under new management.
+noisy_testset_wav/p257_414.wav,clean_testset_wav/p257_414.wav,I have so much respect for him.
+noisy_testset_wav/p257_431.wav,clean_testset_wav/p257_431.wav,That was the first time I worked with Richard.
+noisy_testset_wav/p232_413.wav,clean_testset_wav/p232_413.wav,"It was that bad, that low."
+noisy_testset_wav/p232_352.wav,clean_testset_wav/p232_352.wav,The boat was fantastic.
+noisy_testset_wav/p257_160.wav,clean_testset_wav/p257_160.wav,"It was so new, so exciting."
+noisy_testset_wav/p257_084.wav,clean_testset_wav/p257_084.wav,"Obviously, we were pretty close in a couple of games."
+noisy_testset_wav/p232_291.wav,clean_testset_wav/p232_291.wav,They were also beside themselves.
+noisy_testset_wav/p257_429.wav,clean_testset_wav/p257_429.wav,It's a miracle.
+noisy_testset_wav/p257_101.wav,clean_testset_wav/p257_101.wav,"However, the intensive care unit at the Southern General Hospital was full."
+noisy_testset_wav/p232_275.wav,clean_testset_wav/p232_275.wav,Lottery money was intended to be used for good causes.
+noisy_testset_wav/p257_200.wav,clean_testset_wav/p257_200.wav,We have an election in eight days.
+noisy_testset_wav/p232_039.wav,clean_testset_wav/p232_039.wav,I was scared.
+noisy_testset_wav/p257_032.wav,clean_testset_wav/p257_032.wav,Clark was desperate to return to the House of Commons.
+noisy_testset_wav/p232_180.wav,clean_testset_wav/p232_180.wav,The event was held in the council's headquarters in Hamilton.
+noisy_testset_wav/p257_228.wav,clean_testset_wav/p257_228.wav,It is set in Paris.
+noisy_testset_wav/p232_189.wav,clean_testset_wav/p232_189.wav,They receive a high profile in the media.
+noisy_testset_wav/p257_099.wav,clean_testset_wav/p257_099.wav,They were under a lot of pressure from the other clubs.
+noisy_testset_wav/p257_225.wav,clean_testset_wav/p257_225.wav,"I think he's the favourite, no question."
+noisy_testset_wav/p257_360.wav,clean_testset_wav/p257_360.wav,I haven't had a kick at a Celtic player for a while.
+noisy_testset_wav/p257_373.wav,clean_testset_wav/p257_373.wav,It is unusual.
+noisy_testset_wav/p232_012.wav,clean_testset_wav/p232_012.wav,Throughout the centuries people have explained the rainbow in various ways.
+noisy_testset_wav/p257_387.wav,clean_testset_wav/p257_387.wav,So I did.
+noisy_testset_wav/p257_332.wav,clean_testset_wav/p257_332.wav,I was pleased to be back on the podium in Brazil.
+noisy_testset_wav/p232_013.wav,clean_testset_wav/p232_013.wav,Some have accepted it as a miracle without physical explanation.
+noisy_testset_wav/p257_363.wav,clean_testset_wav/p257_363.wav,There were no casualties.
+noisy_testset_wav/p257_289.wav,clean_testset_wav/p257_289.wav,"However, the snow was welcomed by some."
+noisy_testset_wav/p257_057.wav,clean_testset_wav/p257_057.wav,The story was first reported in the Spectator magazine.
+noisy_testset_wav/p232_263.wav,clean_testset_wav/p232_263.wav,"However, the force has not yet received a formal complaint."
+noisy_testset_wav/p257_237.wav,clean_testset_wav/p257_237.wav,A change in that position would require a decision by the council.
+noisy_testset_wav/p232_169.wav,clean_testset_wav/p232_169.wav,It's too early to say whether a public inquiry would be appropriate.
+noisy_testset_wav/p257_074.wav,clean_testset_wav/p257_074.wav,It was chaotic.
+noisy_testset_wav/p232_273.wav,clean_testset_wav/p232_273.wav,He was also married with two children.
+noisy_testset_wav/p257_031.wav,clean_testset_wav/p257_031.wav,It was clear.
+noisy_testset_wav/p232_094.wav,clean_testset_wav/p232_094.wav,"This time, it will have opened up the field a little bit."
+noisy_testset_wav/p257_364.wav,clean_testset_wav/p257_364.wav,"Since then, he has played no active part in the company."
+noisy_testset_wav/p232_084.wav,clean_testset_wav/p232_084.wav,I will miss him.
+noisy_testset_wav/p257_162.wav,clean_testset_wav/p257_162.wav,A Labour insider said it was far too close to call.
+noisy_testset_wav/p232_362.wav,clean_testset_wav/p232_362.wav,You must have a government and a good civil service.
+noisy_testset_wav/p232_182.wav,clean_testset_wav/p232_182.wav,"I've been in two finals, and I've got a medal."
+noisy_testset_wav/p232_392.wav,clean_testset_wav/p232_392.wav,"Building an underground, for example, has proved a nightmare."
+noisy_testset_wav/p232_135.wav,clean_testset_wav/p232_135.wav,Our intentions are real.
+noisy_testset_wav/p232_316.wav,clean_testset_wav/p232_316.wav,It should be equal.
+noisy_testset_wav/p257_119.wav,clean_testset_wav/p257_119.wav,I'm delighted about that.
+noisy_testset_wav/p232_391.wav,clean_testset_wav/p232_391.wav,You thought it was a headache.
+noisy_testset_wav/p257_326.wav,clean_testset_wav/p257_326.wav,I've got no secret.
+noisy_testset_wav/p257_323.wav,clean_testset_wav/p257_323.wav,It is so unfair.
+noisy_testset_wav/p257_182.wav,clean_testset_wav/p257_182.wav,What has caused the demise of singing?
+noisy_testset_wav/p232_403.wav,clean_testset_wav/p232_403.wav,My house was shaking at the time.
+noisy_testset_wav/p232_363.wav,clean_testset_wav/p232_363.wav,But the real problem is the closure of the export market.
+noisy_testset_wav/p257_390.wav,clean_testset_wav/p257_390.wav,There was no trouble.
+noisy_testset_wav/p232_027.wav,clean_testset_wav/p232_027.wav,Several other countries are also reported to be interested in the format.
+noisy_testset_wav/p257_135.wav,clean_testset_wav/p257_135.wav,Customers for the panels include the National Trust for Scotland.
+noisy_testset_wav/p232_112.wav,clean_testset_wav/p232_112.wav,You had better believe it.
+noisy_testset_wav/p232_281.wav,clean_testset_wav/p232_281.wav,It's a way of life.
+noisy_testset_wav/p257_115.wav,clean_testset_wav/p257_115.wav,We do not expect any surplus.
+noisy_testset_wav/p232_193.wav,clean_testset_wav/p232_193.wav,The procedure is the same in all cases.
+noisy_testset_wav/p257_340.wav,clean_testset_wav/p257_340.wav,It was very formal.
+noisy_testset_wav/p257_254.wav,clean_testset_wav/p257_254.wav,I would have the hammer in the crowd.
+noisy_testset_wav/p232_206.wav,clean_testset_wav/p232_206.wav,"We're not seeing an image of the person, he said."
+noisy_testset_wav/p232_140.wav,clean_testset_wav/p232_140.wav,He is severe.
+noisy_testset_wav/p232_405.wav,clean_testset_wav/p232_405.wav,We have not yet received a letter from the Irish.
+noisy_testset_wav/p257_128.wav,clean_testset_wav/p257_128.wav,It's terrible that he has died the same way.
+noisy_testset_wav/p257_012.wav,clean_testset_wav/p257_012.wav,Throughout the centuries people have explained the rainbow in various ways.
+noisy_testset_wav/p257_350.wav,clean_testset_wav/p257_350.wav,I decided to tell a bit of the story about myself.
+noisy_testset_wav/p257_150.wav,clean_testset_wav/p257_150.wav,He will emerge as a world leader.
+noisy_testset_wav/p257_257.wav,clean_testset_wav/p257_257.wav,Blood samples were taken.
+noisy_testset_wav/p232_095.wav,clean_testset_wav/p232_095.wav,I have every confidence in Raymond Robertson as chairman of the party.
+noisy_testset_wav/p257_337.wav,clean_testset_wav/p257_337.wav,Tell us about it.
+noisy_testset_wav/p232_294.wav,clean_testset_wav/p232_294.wav,A tribunal would then consider the seriousness of the incident.
+noisy_testset_wav/p232_252.wav,clean_testset_wav/p232_252.wav,We did not compete with any other local farmer.
+noisy_testset_wav/p257_018.wav,clean_testset_wav/p257_018.wav,Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+noisy_testset_wav/p257_218.wav,clean_testset_wav/p257_218.wav,William Hague delighted his party.
+noisy_testset_wav/p232_341.wav,clean_testset_wav/p232_341.wav,Gaelic provision continued to be good.
+noisy_testset_wav/p257_107.wav,clean_testset_wav/p257_107.wav,They will want to perform well.
+noisy_testset_wav/p257_419.wav,clean_testset_wav/p257_419.wav,It's not about defining styles.
+noisy_testset_wav/p232_036.wav,clean_testset_wav/p232_036.wav,But it may take some time to confirm the findings.
+noisy_testset_wav/p257_068.wav,clean_testset_wav/p257_068.wav,There could be a way back.
+noisy_testset_wav/p232_387.wav,clean_testset_wav/p232_387.wav,It was as if it was all happening at a garden party.
+noisy_testset_wav/p257_280.wav,clean_testset_wav/p257_280.wav,The results are sometimes contentious.
+noisy_testset_wav/p257_051.wav,clean_testset_wav/p257_051.wav,"I got a great response from the players, as I had expected."
+noisy_testset_wav/p232_265.wav,clean_testset_wav/p232_265.wav,Blood samples were taken.
+noisy_testset_wav/p232_306.wav,clean_testset_wav/p232_306.wav,It is a road of death.
+noisy_testset_wav/p257_268.wav,clean_testset_wav/p257_268.wav,"She has fallen in love with Scotland, however."
+noisy_testset_wav/p257_275.wav,clean_testset_wav/p257_275.wav,Police were called to the ground and interviewed a number of people.
+noisy_testset_wav/p232_390.wav,clean_testset_wav/p232_390.wav,"That's the name of the game, though."
+noisy_testset_wav/p232_282.wav,clean_testset_wav/p232_282.wav,The decision was announced at its annual conference in Dunfermline.
+noisy_testset_wav/p257_089.wav,clean_testset_wav/p257_089.wav,"Yesterday, he continued to keep a low profile."
+noisy_testset_wav/p257_073.wav,clean_testset_wav/p257_073.wav,She died in hospital two hours later.
+noisy_testset_wav/p232_142.wav,clean_testset_wav/p232_142.wav,I do not want to have a fight with Mr Hastings.
+noisy_testset_wav/p232_257.wav,clean_testset_wav/p232_257.wav,I can't get a job.
+noisy_testset_wav/p232_126.wav,clean_testset_wav/p232_126.wav,Child abuse is a dreadful thing.
+noisy_testset_wav/p232_239.wav,clean_testset_wav/p232_239.wav,It is set in Paris.
+noisy_testset_wav/p257_146.wav,clean_testset_wav/p257_146.wav,There is a lack of chemistry.
+noisy_testset_wav/p257_293.wav,clean_testset_wav/p257_293.wav,It's just not funny!
+noisy_testset_wav/p257_328.wav,clean_testset_wav/p257_328.wav,I'm very lucky.
+noisy_testset_wav/p232_170.wav,clean_testset_wav/p232_170.wav,We've made a couple of albums.
+noisy_testset_wav/p257_102.wav,clean_testset_wav/p257_102.wav,Tomorrow he will make a keynote speech on Europe.
+noisy_testset_wav/p232_049.wav,clean_testset_wav/p232_049.wav,The whole of southern Africa is in the grip of Aids.
+noisy_testset_wav/p232_289.wav,clean_testset_wav/p232_289.wav,"Surely, the Scottish Parliament is entitled to take a view on that."
+noisy_testset_wav/p257_036.wav,clean_testset_wav/p257_036.wav,I was scared.
+noisy_testset_wav/p232_208.wav,clean_testset_wav/p232_208.wav,"Now, it's all right."
+noisy_testset_wav/p257_366.wav,clean_testset_wav/p257_366.wav,Family liaison officers are now working to support the family.
+noisy_testset_wav/p257_279.wav,clean_testset_wav/p257_279.wav,He added that public transport improvements must also be maintained.
+noisy_testset_wav/p232_121.wav,clean_testset_wav/p232_121.wav,That was the lesson to be learned from the European Championships.
+noisy_testset_wav/p232_103.wav,clean_testset_wav/p232_103.wav,We recognise the important role of golf in attracting visitors.
+noisy_testset_wav/p257_389.wav,clean_testset_wav/p257_389.wav,Whether the High Court will interfere with the sentence is another matter.
+noisy_testset_wav/p232_377.wav,clean_testset_wav/p232_377.wav,"For one veteran, the memories remain vivid."
+noisy_testset_wav/p257_192.wav,clean_testset_wav/p257_192.wav,Off I went.
+noisy_testset_wav/p257_355.wav,clean_testset_wav/p257_355.wav,It is a large number.
+noisy_testset_wav/p257_401.wav,clean_testset_wav/p257_401.wav,She is superb.
+noisy_testset_wav/p232_378.wav,clean_testset_wav/p232_378.wav,The final decision was between Scotland and the Republic of Ireland.
+noisy_testset_wav/p232_228.wav,clean_testset_wav/p232_228.wav,It was good fun.
+noisy_testset_wav/p257_009.wav,clean_testset_wav/p257_009.wav,"There is , according to legend, a boiling pot of gold at one end."
+noisy_testset_wav/p232_119.wav,clean_testset_wav/p232_119.wav,"This is the end of a chapter, and this is very sad."
+noisy_testset_wav/p257_292.wav,clean_testset_wav/p257_292.wav,Details of the new vessel were given in London yesterday.
+noisy_testset_wav/p232_154.wav,clean_testset_wav/p232_154.wav,They were later discharged from hospital.
+noisy_testset_wav/p257_065.wav,clean_testset_wav/p257_065.wav,There is an element of racism in Scotland.
+noisy_testset_wav/p232_069.wav,clean_testset_wav/p232_069.wav,We welcome the decision of Mr Byers.
+noisy_testset_wav/p257_348.wav,clean_testset_wav/p257_348.wav,He could face a jail sentence.
+noisy_testset_wav/p257_406.wav,clean_testset_wav/p257_406.wav,But they are still unlikely to be involved in combat.
+noisy_testset_wav/p232_176.wav,clean_testset_wav/p232_176.wav,"First and foremost, the game is entirely different."
+noisy_testset_wav/p257_329.wav,clean_testset_wav/p257_329.wav,We must do something.
+noisy_testset_wav/p257_422.wav,clean_testset_wav/p257_422.wav,But it may take some time to confirm the findings.
+noisy_testset_wav/p257_159.wav,clean_testset_wav/p257_159.wav,He can do no wrong.
+noisy_testset_wav/p257_171.wav,clean_testset_wav/p257_171.wav,There was no hint of scandal.
+noisy_testset_wav/p257_117.wav,clean_testset_wav/p257_117.wav,It's not a new concept in jazz.
+noisy_testset_wav/p257_206.wav,clean_testset_wav/p257_206.wav,Her home is perhaps a couple of miles from the town centre.
+noisy_testset_wav/p257_080.wav,clean_testset_wav/p257_080.wav,It is linked to the row over proposed changes at Scottish Ballet.
+noisy_testset_wav/p232_159.wav,clean_testset_wav/p232_159.wav,We have to move forward.
+noisy_testset_wav/p232_001.wav,clean_testset_wav/p232_001.wav,Please call Stella.
+noisy_testset_wav/p257_273.wav,clean_testset_wav/p257_273.wav,You've got to have both sides.
+noisy_testset_wav/p232_019.wav,clean_testset_wav/p232_019.wav,"Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."
+noisy_testset_wav/p257_288.wav,clean_testset_wav/p257_288.wav,I thought it was my only chance.
+noisy_testset_wav/p257_266.wav,clean_testset_wav/p257_266.wav,Our objective is to tackle poverty.
+noisy_testset_wav/p257_126.wav,clean_testset_wav/p257_126.wav,It has removed a bit of guilt.
+noisy_testset_wav/p232_219.wav,clean_testset_wav/p232_219.wav,He said that healthy eating was high on the council agenda.
+noisy_testset_wav/p232_261.wav,clean_testset_wav/p232_261.wav,One MP said he feared the job losses were only the beginning.
+noisy_testset_wav/p232_089.wav,clean_testset_wav/p232_089.wav,Now the system is right behind us.
+noisy_testset_wav/p257_309.wav,clean_testset_wav/p257_309.wav,It is out there.
+noisy_testset_wav/p257_094.wav,clean_testset_wav/p257_094.wav,She told The Herald.
+noisy_testset_wav/p232_404.wav,clean_testset_wav/p232_404.wav,This is a huge confidence boost.
+noisy_testset_wav/p257_249.wav,clean_testset_wav/p257_249.wav,I watched a game.
+noisy_testset_wav/p257_397.wav,clean_testset_wav/p257_397.wav,Our numbers are small.
+noisy_testset_wav/p257_209.wav,clean_testset_wav/p257_209.wav,It had all been arranged.
+noisy_testset_wav/p257_267.wav,clean_testset_wav/p257_267.wav,One knows the feeling.
+noisy_testset_wav/p257_261.wav,clean_testset_wav/p257_261.wav,Similar measures are expected in England and Wales.
+noisy_testset_wav/p257_058.wav,clean_testset_wav/p257_058.wav,It is not great art.
+noisy_testset_wav/p232_052.wav,clean_testset_wav/p232_052.wav,We were surprised to see the photograph.
+noisy_testset_wav/p232_043.wav,clean_testset_wav/p232_043.wav,But it took a lot of bottle.
+noisy_testset_wav/p257_048.wav,clean_testset_wav/p257_048.wav,As she explains.
+noisy_testset_wav/p257_149.wav,clean_testset_wav/p257_149.wav,That group reported just before Christmas.
+noisy_testset_wav/p257_056.wav,clean_testset_wav/p257_056.wav,It's very odd.
+noisy_testset_wav/p232_305.wav,clean_testset_wav/p232_305.wav,They are wrong.
+noisy_testset_wav/p232_240.wav,clean_testset_wav/p232_240.wav,The singer is expected to be in hospital for several days.
+noisy_testset_wav/p232_128.wav,clean_testset_wav/p232_128.wav,"Despite the result, it was still a great moment."
+noisy_testset_wav/p232_181.wav,clean_testset_wav/p232_181.wav,The clarity is vital.
+noisy_testset_wav/p257_327.wav,clean_testset_wav/p257_327.wav,Look at the witnesses.
+noisy_testset_wav/p232_220.wav,clean_testset_wav/p232_220.wav,The council has proposed a temporary barrier to protect the monument.
+noisy_testset_wav/p232_058.wav,clean_testset_wav/p232_058.wav,This obsession wasn't just contained within the world of the losers.
+noisy_testset_wav/p257_227.wav,clean_testset_wav/p257_227.wav,They had no children.
+noisy_testset_wav/p232_353.wav,clean_testset_wav/p232_353.wav,"Like his acting, it was an accident."
+noisy_testset_wav/p257_313.wav,clean_testset_wav/p257_313.wav,I came into this world with nothing.
+noisy_testset_wav/p257_212.wav,clean_testset_wav/p257_212.wav,"However, Dundee deserved to win this game."
+noisy_testset_wav/p232_090.wav,clean_testset_wav/p232_090.wav,Downing Street will make the second appointment in the Scotland Office today.
+noisy_testset_wav/p232_099.wav,clean_testset_wav/p232_099.wav,They were under a lot of pressure from the other clubs.
+noisy_testset_wav/p257_392.wav,clean_testset_wav/p257_392.wav,Not because they want to sing about something.
+noisy_testset_wav/p257_180.wav,clean_testset_wav/p257_180.wav,It is minute.
+noisy_testset_wav/p257_404.wav,clean_testset_wav/p257_404.wav,"It is simple, but profound."
+noisy_testset_wav/p232_054.wav,clean_testset_wav/p232_054.wav,Several other pupils and staff were seriously injured in the accident.
+noisy_testset_wav/p257_165.wav,clean_testset_wav/p257_165.wav,I lost my head.
+noisy_testset_wav/p257_307.wav,clean_testset_wav/p257_307.wav,Ms Anderson yesterday put a brave face on the departure.
+noisy_testset_wav/p232_217.wav,clean_testset_wav/p232_217.wav,It's not ideal.
+noisy_testset_wav/p232_144.wav,clean_testset_wav/p232_144.wav,The home side didn't stand a chance.
+noisy_testset_wav/p232_087.wav,clean_testset_wav/p232_087.wav,No progress has been made.
+noisy_testset_wav/p257_341.wav,clean_testset_wav/p257_341.wav,The pressure is on Celtic in the main.
+noisy_testset_wav/p257_247.wav,clean_testset_wav/p257_247.wav,He said he intended to push for a judicial review.
+noisy_testset_wav/p257_120.wav,clean_testset_wav/p257_120.wav,Does this mean.
+noisy_testset_wav/p232_371.wav,clean_testset_wav/p232_371.wav,The scene is about this ?
+noisy_testset_wav/p257_277.wav,clean_testset_wav/p257_277.wav,It shows a contempt by him for the industry.
+noisy_testset_wav/p257_122.wav,clean_testset_wav/p257_122.wav,He did his job.
+noisy_testset_wav/p257_137.wav,clean_testset_wav/p257_137.wav,Our intentions are real.
+noisy_testset_wav/p257_270.wav,clean_testset_wav/p257_270.wav,It was a privilege to work for him.
+noisy_testset_wav/p257_037.wav,clean_testset_wav/p257_037.wav,It was ugly.
+noisy_testset_wav/p257_040.wav,clean_testset_wav/p257_040.wav,The Dutchman was in time to see the breakthrough.
+noisy_testset_wav/p232_333.wav,clean_testset_wav/p232_333.wav,I'd like to take the plunge.
+noisy_testset_wav/p257_336.wav,clean_testset_wav/p257_336.wav,The man was obviously desperate to get away from the police.
+noisy_testset_wav/p232_411.wav,clean_testset_wav/p232_411.wav,You wanted the evidence.
+noisy_testset_wav/p257_139.wav,clean_testset_wav/p257_139.wav,What will happen then?
+noisy_testset_wav/p232_118.wav,clean_testset_wav/p232_118.wav,"Thereafter, he set his mind on becoming a doctor."
+noisy_testset_wav/p232_051.wav,clean_testset_wav/p232_051.wav,Here's a clue.
+noisy_testset_wav/p232_259.wav,clean_testset_wav/p232_259.wav,"For the Scottish judges, the affair is very delicate and unique."
+noisy_testset_wav/p232_414.wav,clean_testset_wav/p232_414.wav,I was very young.
+noisy_testset_wav/p257_219.wav,clean_testset_wav/p257_219.wav,At the top of the structure will remain the post of headteacher.
+noisy_testset_wav/p257_232.wav,clean_testset_wav/p257_232.wav,"John Prescott, the deputy prime minister, will fly to the summit tomorrow."
+noisy_testset_wav/p257_019.wav,clean_testset_wav/p257_019.wav,"Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."
+noisy_testset_wav/p257_216.wav,clean_testset_wav/p257_216.wav,He said that healthy eating was high on the council agenda.
+noisy_testset_wav/p232_241.wav,clean_testset_wav/p232_241.wav,It's quite nice.
+noisy_testset_wav/p257_408.wav,clean_testset_wav/p257_408.wav,She has reached the top of her profession.
+noisy_testset_wav/p257_198.wav,clean_testset_wav/p257_198.wav,We see the rapid reaction force as the way ahead.
+noisy_testset_wav/p257_195.wav,clean_testset_wav/p257_195.wav,Ferguson should take note.
+noisy_testset_wav/p232_303.wav,clean_testset_wav/p232_303.wav,He was adamant that he was still ahead on everything that matters.
+noisy_testset_wav/p232_359.wav,clean_testset_wav/p232_359.wav,She is free.
+noisy_testset_wav/p257_016.wav,clean_testset_wav/p257_016.wav,The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+noisy_testset_wav/p257_067.wav,clean_testset_wav/p257_067.wav,It's all I can do.
+noisy_testset_wav/p257_061.wav,clean_testset_wav/p257_061.wav,Scotland had great assets.
+noisy_testset_wav/p257_156.wav,clean_testset_wav/p257_156.wav,There's a sense of excess in the novel.
+noisy_testset_wav/p232_002.wav,clean_testset_wav/p232_002.wav,Ask her to bring these things with her from the store.
+noisy_testset_wav/p257_402.wav,clean_testset_wav/p257_402.wav,"Today, he is in the same position as four years ago."
+noisy_testset_wav/p232_125.wav,clean_testset_wav/p232_125.wav,I'm so angry.
+noisy_testset_wav/p257_047.wav,clean_testset_wav/p257_047.wav,The whole of southern Africa is in the grip of Aids.
+noisy_testset_wav/p232_031.wav,clean_testset_wav/p232_031.wav,It's a matter of balance.
+noisy_testset_wav/p232_050.wav,clean_testset_wav/p232_050.wav,They had to explain it.
+noisy_testset_wav/p232_075.wav,clean_testset_wav/p232_075.wav,The price cuts are really exciting.
+noisy_testset_wav/p257_211.wav,clean_testset_wav/p257_211.wav,We have got to get it right.
+noisy_testset_wav/p257_108.wav,clean_testset_wav/p257_108.wav,They had to be cut from the wreckage.
+noisy_testset_wav/p257_432.wav,clean_testset_wav/p257_432.wav,They will form a tribute.
+noisy_testset_wav/p257_361.wav,clean_testset_wav/p257_361.wav,He has the edge.
+noisy_testset_wav/p257_055.wav,clean_testset_wav/p257_055.wav,Next league matches Celtic.
+noisy_testset_wav/p257_125.wav,clean_testset_wav/p257_125.wav,I was furious.
+noisy_testset_wav/p257_184.wav,clean_testset_wav/p257_184.wav,My main concern is that public health is not put at risk.
+noisy_testset_wav/p232_080.wav,clean_testset_wav/p232_080.wav,I've got the shirt.
+noisy_testset_wav/p232_369.wav,clean_testset_wav/p232_369.wav,To do so he reckons that a good opening result is essential.
+noisy_testset_wav/p232_201.wav,clean_testset_wav/p232_201.wav,"On the outside of an airport, it is very difficult."
+noisy_testset_wav/p232_035.wav,clean_testset_wav/p232_035.wav,Other members of the family were too upset to comment last night.
+noisy_testset_wav/p257_183.wav,clean_testset_wav/p257_183.wav,One was a lawyer.
+noisy_testset_wav/p232_235.wav,clean_testset_wav/p232_235.wav,"Her condition was yesterday described as critical, but stable."
+noisy_testset_wav/p257_233.wav,clean_testset_wav/p257_233.wav,But it's a subtle process.
+noisy_testset_wav/p257_017.wav,clean_testset_wav/p257_017.wav,Others have tried to explain the phenomenon physically.
+noisy_testset_wav/p232_056.wav,clean_testset_wav/p232_056.wav,Because we do not need it.
+noisy_testset_wav/p257_153.wav,clean_testset_wav/p257_153.wav,It became a book by itself.
+noisy_testset_wav/p257_290.wav,clean_testset_wav/p257_290.wav,It just came into my head that day.
+noisy_testset_wav/p257_129.wav,clean_testset_wav/p257_129.wav,So the European elections are extremely important.
+noisy_testset_wav/p232_311.wav,clean_testset_wav/p232_311.wav,Special measures were needed.
+noisy_testset_wav/p257_217.wav,clean_testset_wav/p257_217.wav,"Naturally enough, the letter in question was an E."
+noisy_testset_wav/p232_164.wav,clean_testset_wav/p232_164.wav,That must be left to the Parole Board.
+noisy_testset_wav/p257_069.wav,clean_testset_wav/p257_069.wav,They do not work for Glasgow City Council.
+noisy_testset_wav/p257_375.wav,clean_testset_wav/p257_375.wav,It is likely the rest of the market will follow suit.
+noisy_testset_wav/p257_229.wav,clean_testset_wav/p257_229.wav,"Well, they were the unlucky ones."
+noisy_testset_wav/p232_218.wav,clean_testset_wav/p232_218.wav,He seemed to lose his focus.
+noisy_testset_wav/p257_114.wav,clean_testset_wav/p257_114.wav,It was the eighties.
+noisy_testset_wav/p257_103.wav,clean_testset_wav/p257_103.wav,We have every respect for Michelle.
+noisy_testset_wav/p232_199.wav,clean_testset_wav/p232_199.wav,The service from the other players was super.
+noisy_testset_wav/p232_060.wav,clean_testset_wav/p232_060.wav,"That is very hard, alone."
+noisy_testset_wav/p232_136.wav,clean_testset_wav/p232_136.wav,They took a risk.
+noisy_testset_wav/p232_321.wav,clean_testset_wav/p232_321.wav,"Davis is very supportive, as a director."
+noisy_testset_wav/p257_176.wav,clean_testset_wav/p257_176.wav,It's quite a routine.
+noisy_testset_wav/p232_096.wav,clean_testset_wav/p232_096.wav,Then came the crunch.
+noisy_testset_wav/p232_188.wav,clean_testset_wav/p232_188.wav,Family liaison officers are now working to support the family.
+noisy_testset_wav/p257_321.wav,clean_testset_wav/p257_321.wav,Three years ago he would have been.
+noisy_testset_wav/p232_335.wav,clean_testset_wav/p232_335.wav,She did not attend the courtroom.
+noisy_testset_wav/p257_062.wav,clean_testset_wav/p257_062.wav,There will be tough opponents to this report.
+noisy_testset_wav/p232_328.wav,clean_testset_wav/p232_328.wav,They also recovered a picture of Osama bin Laden.
+noisy_testset_wav/p232_150.wav,clean_testset_wav/p232_150.wav,She had gone to the Catholic school.
+noisy_testset_wav/p232_388.wav,clean_testset_wav/p232_388.wav,Ms McNeill was killed on impact.
+noisy_testset_wav/p257_210.wav,clean_testset_wav/p257_210.wav,A Grampian Police spokesman said.
+noisy_testset_wav/p257_251.wav,clean_testset_wav/p257_251.wav,There was no mention of an amnesty in the Belfast Agreement.
+noisy_testset_wav/p257_020.wav,clean_testset_wav/p257_020.wav,Many complicated ideas about the rainbow have been formed.
+noisy_testset_wav/p232_323.wav,clean_testset_wav/p232_323.wav,I came into this world with nothing.
+noisy_testset_wav/p232_286.wav,clean_testset_wav/p232_286.wav,It was a privilege to work for him.
+noisy_testset_wav/p257_259.wav,clean_testset_wav/p257_259.wav,It's very nice.
+noisy_testset_wav/p232_014.wav,clean_testset_wav/p232_014.wav,To the Hebrews it was a token that there would be no more universal floods.
+noisy_testset_wav/p257_241.wav,clean_testset_wav/p257_241.wav,"I should think so, too."
+noisy_testset_wav/p232_297.wav,clean_testset_wav/p232_297.wav,These figures are truly awful.
+noisy_testset_wav/p257_052.wav,clean_testset_wav/p257_052.wav,But the law is very clear on this.
+noisy_testset_wav/p232_022.wav,clean_testset_wav/p232_022.wav,The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+noisy_testset_wav/p232_081.wav,clean_testset_wav/p232_081.wav,Today she has been released.
+noisy_testset_wav/p232_064.wav,clean_testset_wav/p232_064.wav,People love to see this stuff.
+noisy_testset_wav/p232_396.wav,clean_testset_wav/p232_396.wav,I can lead by example.
+noisy_testset_wav/p232_287.wav,clean_testset_wav/p232_287.wav,It happens from time to time.
+noisy_testset_wav/p232_040.wav,clean_testset_wav/p232_040.wav,Dancing was her life.
+noisy_testset_wav/p232_046.wav,clean_testset_wav/p232_046.wav,The judge said.
+noisy_testset_wav/p257_190.wav,clean_testset_wav/p257_190.wav,We must keep our feet on the ground.
+noisy_testset_wav/p232_172.wav,clean_testset_wav/p232_172.wav,They thought they had found a home.
+noisy_testset_wav/p232_127.wav,clean_testset_wav/p232_127.wav,It has removed a bit of guilt.
+noisy_testset_wav/p257_258.wav,clean_testset_wav/p257_258.wav,"He claimed his insurance company contested the damages, not the restaurant."
+noisy_testset_wav/p257_426.wav,clean_testset_wav/p257_426.wav,Mary Archer is almost too clever.
+noisy_testset_wav/p257_351.wav,clean_testset_wav/p257_351.wav,I am not willing to say anything about any couple.
+noisy_testset_wav/p257_283.wav,clean_testset_wav/p257_283.wav,Right up until a week ago we thought they were very keen.
+noisy_testset_wav/p257_334.wav,clean_testset_wav/p257_334.wav,It is not like working for a living.
+noisy_testset_wav/p257_294.wav,clean_testset_wav/p257_294.wav,I am very happy to be here.
+noisy_testset_wav/p257_186.wav,clean_testset_wav/p257_186.wav,Treasury spokesman Malcolm Bruce is also considered a potential contender.
+noisy_testset_wav/p257_083.wav,clean_testset_wav/p257_083.wav,He seems to be pleased with the picture.
+noisy_testset_wav/p232_251.wav,clean_testset_wav/p232_251.wav,Manager Bobby Williamson has no injury worries.
+noisy_testset_wav/p257_282.wav,clean_testset_wav/p257_282.wav,A new school will be built.
+noisy_testset_wav/p257_301.wav,clean_testset_wav/p257_301.wav,I never thought it would take this long.
+noisy_testset_wav/p232_029.wav,clean_testset_wav/p232_029.wav,"Their courage, and their honesty, should be respected."
+noisy_testset_wav/p257_046.wav,clean_testset_wav/p257_046.wav,It's a blessing.
+noisy_testset_wav/p232_200.wav,clean_testset_wav/p232_200.wav,He's not written as a terribly exciting person in the book.
+noisy_testset_wav/p232_278.wav,clean_testset_wav/p232_278.wav,They wanted the club to make money.
+noisy_testset_wav/p232_394.wav,clean_testset_wav/p232_394.wav,The charity also has a project in Moscow in Russia.
+noisy_testset_wav/p257_235.wav,clean_testset_wav/p257_235.wav,My future is in the marathon.
+noisy_testset_wav/p257_339.wav,clean_testset_wav/p257_339.wav,He met Mr Davies to establish the scale of the scandal.
+noisy_testset_wav/p232_017.wav,clean_testset_wav/p232_017.wav,Others have tried to explain the phenomenon physically.
+noisy_testset_wav/p232_104.wav,clean_testset_wav/p232_104.wav,"There will be no repeat of that performance, that I can guarantee."
+noisy_testset_wav/p232_117.wav,clean_testset_wav/p232_117.wav,Mr Chisholm said the move was made on the advice of consultants.
+noisy_testset_wav/p257_157.wav,clean_testset_wav/p257_157.wav,"For the refugees, the return will not come a moment too soon."
+noisy_testset_wav/p257_123.wav,clean_testset_wav/p257_123.wav,You can spend money on housing.
+noisy_testset_wav/p232_047.wav,clean_testset_wav/p232_047.wav,It is difficult for Ali.
+noisy_testset_wav/p257_011.wav,clean_testset_wav/p257_011.wav,"When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow."
+noisy_testset_wav/p232_409.wav,clean_testset_wav/p232_409.wav,Quality Meat Scotland was vigorous in its defence of the labelling.
+noisy_testset_wav/p232_163.wav,clean_testset_wav/p232_163.wav,It is not too late to get on board.
+noisy_testset_wav/p257_006.wav,clean_testset_wav/p257_006.wav,"When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow."
+noisy_testset_wav/p257_196.wav,clean_testset_wav/p257_196.wav,The album was widely expected to be a commercial disaster.
+noisy_testset_wav/p232_158.wav,clean_testset_wav/p232_158.wav,They say that vital evidence was not heard in court.
+noisy_testset_wav/p257_291.wav,clean_testset_wav/p257_291.wav,They are wrong.
+noisy_testset_wav/p257_272.wav,clean_testset_wav/p257_272.wav,He looked very sharp.
+noisy_testset_wav/p257_155.wav,clean_testset_wav/p257_155.wav,The weather forecast isn't good.
+noisy_testset_wav/p257_260.wav,clean_testset_wav/p257_260.wav,"Frankly, we should all have such problems."
+noisy_testset_wav/p232_063.wav,clean_testset_wav/p232_063.wav,You do not change overnight.
+noisy_testset_wav/p257_347.wav,clean_testset_wav/p257_347.wav,His legal adviser was also not in court yesterday.
+noisy_testset_wav/p257_118.wav,clean_testset_wav/p257_118.wav,We are determined to continue on this mission and we will prevail.
+noisy_testset_wav/p257_342.wav,clean_testset_wav/p257_342.wav,Tyson is overwhelmed.
+noisy_testset_wav/p257_106.wav,clean_testset_wav/p257_106.wav,"For these people, the ruling is very welcome."
+noisy_testset_wav/p257_242.wav,clean_testset_wav/p257_242.wav,We decided we would go for a specialist inside centre.
+noisy_testset_wav/p257_376.wav,clean_testset_wav/p257_376.wav,I can lead by example.
+noisy_testset_wav/p232_221.wav,clean_testset_wav/p232_221.wav,Friends of the Earth Scotland last night welcomed the announcement.
+noisy_testset_wav/p232_256.wav,clean_testset_wav/p232_256.wav,A friendship that will endure.
+noisy_testset_wav/p257_215.wav,clean_testset_wav/p257_215.wav,It's just a place to open it.
+noisy_testset_wav/p232_315.wav,clean_testset_wav/p232_315.wav,Kids are terrible.
+noisy_testset_wav/p232_148.wav,clean_testset_wav/p232_148.wav,The departure of Mr Johnston was reported by The Herald yesterday.
+noisy_testset_wav/p232_132.wav,clean_testset_wav/p232_132.wav,I am now unemployed.
+noisy_testset_wav/p232_397.wav,clean_testset_wav/p232_397.wav,I love the thought of having a crack at defending the title.
+noisy_testset_wav/p257_246.wav,clean_testset_wav/p257_246.wav,We need to move away from the culture of long hours.
+noisy_testset_wav/p257_097.wav,clean_testset_wav/p257_097.wav,The oil companies would be asked to contribute.
+noisy_testset_wav/p232_356.wav,clean_testset_wav/p232_356.wav,That's the principal difference between an artist and a dog.
+noisy_testset_wav/p232_105.wav,clean_testset_wav/p232_105.wav,That is no use.
+noisy_testset_wav/p257_358.wav,clean_testset_wav/p257_358.wav,Whether his stance is shared by the incoming manager is another matter.
+noisy_testset_wav/p257_222.wav,clean_testset_wav/p257_222.wav,He demanded to speak to the boss.
+noisy_testset_wav/p232_381.wav,clean_testset_wav/p232_381.wav,"Well, the big day has arrived."
+noisy_testset_wav/p232_285.wav,clean_testset_wav/p232_285.wav,They were on holiday in Egypt.
+noisy_testset_wav/p257_079.wav,clean_testset_wav/p257_079.wav,"It is not long term, but I need time to recover."
+noisy_testset_wav/p257_042.wav,clean_testset_wav/p257_042.wav,We need to chat.
+noisy_testset_wav/p257_199.wav,clean_testset_wav/p257_199.wav,IT S all in the hair.
+noisy_testset_wav/p257_053.wav,clean_testset_wav/p257_053.wav,"For the meantime, though, the signs are good."
+noisy_testset_wav/p232_354.wav,clean_testset_wav/p232_354.wav,It is long gone.
+noisy_testset_wav/p257_240.wav,clean_testset_wav/p257_240.wav,It is a policy which has the full support of the minister.
+noisy_testset_wav/p257_416.wav,clean_testset_wav/p257_416.wav,"Rather than answer, she resigned."
+noisy_testset_wav/p257_030.wav,clean_testset_wav/p257_030.wav,Other members of the family were too upset to comment last night.
+noisy_testset_wav/p257_359.wav,clean_testset_wav/p257_359.wav,It does not even have a staff shortage.
+noisy_testset_wav/p232_299.wav,clean_testset_wav/p232_299.wav,He has retired.
+noisy_testset_wav/p232_274.wav,clean_testset_wav/p232_274.wav,Similar measures are expected in England and Wales.
+noisy_testset_wav/p232_375.wav,clean_testset_wav/p232_375.wav,It was a double tragedy for the family.
+noisy_testset_wav/p257_356.wav,clean_testset_wav/p257_356.wav,He knew his job inside out.
+noisy_testset_wav/p232_021.wav,clean_testset_wav/p232_021.wav,"The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases."
+noisy_testset_wav/p232_194.wav,clean_testset_wav/p232_194.wav,But a final decision will not be taken until after the elections.
+noisy_testset_wav/p232_160.wav,clean_testset_wav/p232_160.wav,Local managers are already involved in talks with potential investors.
+noisy_testset_wav/p257_296.wav,clean_testset_wav/p257_296.wav,It wasn't just the character and energy of the playing.
+noisy_testset_wav/p257_372.wav,clean_testset_wav/p257_372.wav,I'm pleased about one thing.
+noisy_testset_wav/p232_283.wav,clean_testset_wav/p232_283.wav,I am an estate agent.
+noisy_testset_wav/p257_003.wav,clean_testset_wav/p257_003.wav,"Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob."
+noisy_testset_wav/p257_369.wav,clean_testset_wav/p257_369.wav,"There is a solution, she believes."
+noisy_testset_wav/p257_423.wav,clean_testset_wav/p257_423.wav,They should not be blamed for it.
+noisy_testset_wav/p257_314.wav,clean_testset_wav/p257_314.wav,But no such amendment has been brought before the Scottish Parliament.
+noisy_testset_wav/p257_189.wav,clean_testset_wav/p257_189.wav,Last night was a key episode.
+noisy_testset_wav/p257_220.wav,clean_testset_wav/p257_220.wav,We played them off the pitch.
+noisy_testset_wav/p257_346.wav,clean_testset_wav/p257_346.wav,I felt really good until Friday.
+noisy_testset_wav/p257_072.wav,clean_testset_wav/p257_072.wav,I had my suspicions.
+noisy_testset_wav/p257_136.wav,clean_testset_wav/p257_136.wav,They made such decisions in London.
+noisy_testset_wav/p257_311.wav,clean_testset_wav/p257_311.wav,"Davis is very supportive, as a director."
+noisy_testset_wav/p257_197.wav,clean_testset_wav/p257_197.wav,It's just awful.
+noisy_testset_wav/p232_317.wav,clean_testset_wav/p232_317.wav,Craig is a major concern for us.
+noisy_testset_wav/p232_015.wav,clean_testset_wav/p232_015.wav,The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+noisy_testset_wav/p257_343.wav,clean_testset_wav/p257_343.wav,We are delighted at the response from potential employers.
+noisy_testset_wav/p257_010.wav,clean_testset_wav/p257_010.wav,"People look, but no one ever finds it."
+noisy_testset_wav/p232_268.wav,clean_testset_wav/p232_268.wav,"Of course, that is not the whole story."
+noisy_testset_wav/p232_156.wav,clean_testset_wav/p232_156.wav,It is an attitude of mind.
+noisy_testset_wav/p257_368.wav,clean_testset_wav/p257_368.wav,They really did a great job.
+noisy_testset_wav/p232_203.wav,clean_testset_wav/p232_203.wav,A deadline is still essential.
+noisy_testset_wav/p232_237.wav,clean_testset_wav/p232_237.wav,"However, no further action was taken by police."
+noisy_testset_wav/p232_202.wav,clean_testset_wav/p232_202.wav,The sisters also became the top two players in the world.
+noisy_testset_wav/p232_338.wav,clean_testset_wav/p232_338.wav,The team for the first game could be this one.
+noisy_testset_wav/p257_154.wav,clean_testset_wav/p257_154.wav,But he stressed that the partnership is not a construction company.
+noisy_testset_wav/p232_302.wav,clean_testset_wav/p232_302.wav,Nothing is safe.
+noisy_testset_wav/p232_086.wav,clean_testset_wav/p232_086.wav,She had kept the news from him.
+noisy_testset_wav/p257_262.wav,clean_testset_wav/p257_262.wav,We do not want any terrorist attacks on any Israeli civilians.
+noisy_testset_wav/p232_325.wav,clean_testset_wav/p232_325.wav,Off with their heads.
+noisy_testset_wav/p257_317.wav,clean_testset_wav/p257_317.wav,I saw some good things.
+noisy_testset_wav/p257_111.wav,clean_testset_wav/p257_111.wav,"I was fighting for my life, I thought."
+noisy_testset_wav/p257_409.wav,clean_testset_wav/p257_409.wav,It goes with the job.
+noisy_testset_wav/p232_230.wav,clean_testset_wav/p232_230.wav,I am immensely sad.
+noisy_testset_wav/p232_102.wav,clean_testset_wav/p232_102.wav,It was a good performance.
+noisy_testset_wav/p257_138.wav,clean_testset_wav/p257_138.wav,It is also well received.
+noisy_testset_wav/p257_086.wav,clean_testset_wav/p257_086.wav,It's never too late.
+noisy_testset_wav/p257_310.wav,clean_testset_wav/p257_310.wav,They had a confession.
+noisy_testset_wav/p232_066.wav,clean_testset_wav/p232_066.wav,"I am pleased with the result, as it was a possible upset."
+noisy_testset_wav/p257_417.wav,clean_testset_wav/p257_417.wav,War is not the action.
+noisy_testset_wav/p232_288.wav,clean_testset_wav/p232_288.wav,He looked very sharp.
+noisy_testset_wav/p232_253.wav,clean_testset_wav/p232_253.wav,I was certainly wrong with my prediction of the result.
+noisy_testset_wav/p232_006.wav,clean_testset_wav/p232_006.wav,"When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow."
+noisy_testset_wav/p257_203.wav,clean_testset_wav/p257_203.wav,Saddam Hussein is a devil.
+noisy_testset_wav/p232_186.wav,clean_testset_wav/p232_186.wav,It is the whole package.
+noisy_testset_wav/p257_066.wav,clean_testset_wav/p257_066.wav,I was just trying to win the golf tournament.
+noisy_testset_wav/p232_131.wav,clean_testset_wav/p232_131.wav,That first victory made a huge difference to my career.
+noisy_testset_wav/p232_101.wav,clean_testset_wav/p232_101.wav,They were outside the circle.
+noisy_testset_wav/p232_078.wav,clean_testset_wav/p232_078.wav,It is a job creation scheme.
+noisy_testset_wav/p232_044.wav,clean_testset_wav/p232_044.wav,We will push.
+noisy_testset_wav/p232_314.wav,clean_testset_wav/p232_314.wav,We are a peaceful people.
+noisy_testset_wav/p257_316.wav,clean_testset_wav/p257_316.wav,The boat was fantastic.
+noisy_testset_wav/p257_367.wav,clean_testset_wav/p257_367.wav,A council spokesman said it had been a constructive meeting.
+noisy_testset_wav/p257_015.wav,clean_testset_wav/p257_015.wav,The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+noisy_testset_wav/p257_170.wav,clean_testset_wav/p257_170.wav,My life has been destroyed.
+noisy_testset_wav/p232_016.wav,clean_testset_wav/p232_016.wav,The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+noisy_testset_wav/p232_123.wav,clean_testset_wav/p232_123.wav,An announcement on his replacement is expected within three weeks.
+noisy_testset_wav/p232_109.wav,clean_testset_wav/p232_109.wav,He plans to call for an aid package from Mr Macdonald.
+noisy_testset_wav/p257_319.wav,clean_testset_wav/p257_319.wav,You can see it on the training ground and around the hotel.
+noisy_testset_wav/p257_331.wav,clean_testset_wav/p257_331.wav,Alex Ferguson is the same.
+noisy_testset_wav/p232_246.wav,clean_testset_wav/p232_246.wav,He claimed the government had lost the plot.
+noisy_testset_wav/p232_272.wav,clean_testset_wav/p232_272.wav,He is a young man with a new deal.
+noisy_testset_wav/p232_318.wav,clean_testset_wav/p232_318.wav,The home team had an amazing start.
+noisy_testset_wav/p232_279.wav,clean_testset_wav/p232_279.wav,"Finally, he paid for the movie."
+noisy_testset_wav/p257_320.wav,clean_testset_wav/p257_320.wav,"In addition, certain areas are closed at certain times."
+noisy_testset_wav/p232_177.wav,clean_testset_wav/p232_177.wav,Blair's response was weak.
+noisy_testset_wav/p257_223.wav,clean_testset_wav/p257_223.wav,"Jim Wallace, the justice minister, acknowledged that prisoner numbers were a concern."
+noisy_testset_wav/p232_336.wav,clean_testset_wav/p232_336.wav,It is difficult to get into the team at the moment.
+noisy_testset_wav/p257_388.wav,clean_testset_wav/p257_388.wav,You ask the question.
+noisy_testset_wav/p257_044.wav,clean_testset_wav/p257_044.wav,I hate the word.
+noisy_testset_wav/p232_079.wav,clean_testset_wav/p232_079.wav,He is now resident in England.
+noisy_testset_wav/p232_110.wav,clean_testset_wav/p232_110.wav,I don't have many friends.
+noisy_testset_wav/p232_269.wav,clean_testset_wav/p232_269.wav,The government has until midnight tomorrow to make a decision.
+noisy_testset_wav/p232_062.wav,clean_testset_wav/p232_062.wav,The problems are a result of that shortfall.
+noisy_testset_wav/p232_307.wav,clean_testset_wav/p232_307.wav,"The confidence is low, but it is a difficult thing to understand."
+noisy_testset_wav/p232_198.wav,clean_testset_wav/p232_198.wav,The conference is the first test.
+noisy_testset_wav/p232_330.wav,clean_testset_wav/p232_330.wav,It could have gone either way.
+noisy_testset_wav/p257_004.wav,clean_testset_wav/p257_004.wav,We also need a small plastic snake and a big toy frog for the kids.
+noisy_testset_wav/p232_351.wav,clean_testset_wav/p232_351.wav,Everything was an effort.
+noisy_testset_wav/p257_116.wav,clean_testset_wav/p257_116.wav,"Naturally, it was not difficult to find support for these proposals."
+noisy_testset_wav/p257_418.wav,clean_testset_wav/p257_418.wav,They said so that I would look good in uniform.
+noisy_testset_wav/p257_127.wav,clean_testset_wav/p257_127.wav,His son has been travelling with the Tartan Army for years.
+noisy_testset_wav/p257_059.wav,clean_testset_wav/p257_059.wav,George Robertson described the plan as an outrageous and disgraceful decision.
+noisy_testset_wav/p232_339.wav,clean_testset_wav/p232_339.wav,They haven't got a hope.
+noisy_testset_wav/p232_372.wav,clean_testset_wav/p232_372.wav,"Six of the asylum seekers left the offices, it was reported."
+noisy_testset_wav/p232_145.wav,clean_testset_wav/p232_145.wav,We want to see the maximum of change.
+noisy_testset_wav/p257_193.wav,clean_testset_wav/p257_193.wav,There would appear to be no motive for the attack.
+noisy_testset_wav/p257_303.wav,clean_testset_wav/p257_303.wav,They wanted the club to make money.
+noisy_testset_wav/p257_185.wav,clean_testset_wav/p257_185.wav,"It was an odd affair, in many respects."
+noisy_testset_wav/p232_249.wav,clean_testset_wav/p232_249.wav,Jock Brown is appointed as general manager.
+noisy_testset_wav/p257_234.wav,clean_testset_wav/p257_234.wav,The Home Office would not release any further details about the group.
+noisy_testset_wav/p232_319.wav,clean_testset_wav/p232_319.wav,"For the moment, our position remains the same."
+noisy_testset_wav/p232_368.wav,clean_testset_wav/p232_368.wav,It was one in the afternoon.
+noisy_testset_wav/p257_248.wav,clean_testset_wav/p257_248.wav,"He was my big brother, my father, my grandfather."
+noisy_testset_wav/p257_022.wav,clean_testset_wav/p257_022.wav,The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+noisy_testset_wav/p232_106.wav,clean_testset_wav/p232_106.wav,It was really enjoyable on Saturday.
+noisy_testset_wav/p232_155.wav,clean_testset_wav/p232_155.wav,This latter point is hugely important.
+noisy_testset_wav/p257_201.wav,clean_testset_wav/p257_201.wav,But I am a worried man.
+noisy_testset_wav/p232_005.wav,clean_testset_wav/p232_005.wav,"She can scoop these things into three red bags, and we will go meet her Wednesday at the train station."
+noisy_testset_wav/p257_425.wav,clean_testset_wav/p257_425.wav,It is bizarre.
+noisy_testset_wav/p232_264.wav,clean_testset_wav/p232_264.wav,The work between the musicians and the fire is very important.
+noisy_testset_wav/p257_133.wav,clean_testset_wav/p257_133.wav,The whole thing of doing the movie was a risk.
+noisy_testset_wav/p257_276.wav,clean_testset_wav/p257_276.wav,"Well, he can do it."
+noisy_testset_wav/p257_147.wav,clean_testset_wav/p257_147.wav,That could mean the difference between life and death in action.
+noisy_testset_wav/p232_380.wav,clean_testset_wav/p232_380.wav,I decided to tell a bit of the story about myself.
+noisy_testset_wav/p257_287.wav,clean_testset_wav/p257_287.wav,Graeme was prepared.
+noisy_testset_wav/p257_181.wav,clean_testset_wav/p257_181.wav,They need to look after themselves.
+noisy_testset_wav/p257_399.wav,clean_testset_wav/p257_399.wav,We have just got to keep his feet on the ground.
+noisy_testset_wav/p232_260.wav,clean_testset_wav/p232_260.wav,The bottom line is that we had to get a win.
+noisy_testset_wav/p257_370.wav,clean_testset_wav/p257_370.wav,"However, it's good to turn the page."
+noisy_testset_wav/p257_041.wav,clean_testset_wav/p257_041.wav,A neighbour said.
+noisy_testset_wav/p257_145.wav,clean_testset_wav/p257_145.wav,We will continue to talk to find a solution for Scottish football.
+noisy_testset_wav/p232_071.wav,clean_testset_wav/p232_071.wav,"Painful, but only because it's true."
+noisy_testset_wav/p232_197.wav,clean_testset_wav/p232_197.wav,The modern approach will also be reflected in the terms of address.
+noisy_testset_wav/p257_131.wav,clean_testset_wav/p257_131.wav,Who will attend?
+noisy_testset_wav/p257_167.wav,clean_testset_wav/p257_167.wav,"Yet it is unlikely to be either full, or final."
+noisy_testset_wav/p257_100.wav,clean_testset_wav/p257_100.wav,It was mayhem.
+noisy_testset_wav/p257_142.wav,clean_testset_wav/p257_142.wav,We are currently consulting with a wide range of interested parties.
+noisy_testset_wav/p257_035.wav,clean_testset_wav/p257_035.wav,"Of course, on Tuesday, United were beaten despite this."
+noisy_testset_wav/p257_026.wav,clean_testset_wav/p257_026.wav,Is this accurate?
+noisy_testset_wav/p257_034.wav,clean_testset_wav/p257_034.wav,President Bush is at war.
+noisy_testset_wav/p257_421.wav,clean_testset_wav/p257_421.wav,It is marvellous.
+noisy_testset_wav/p232_196.wav,clean_testset_wav/p232_196.wav,I came home by ambulance.
+noisy_testset_wav/p257_403.wav,clean_testset_wav/p257_403.wav,It doesn't always work that way.
+noisy_testset_wav/p232_402.wav,clean_testset_wav/p232_402.wav,We knew nothing about it.
+noisy_testset_wav/p257_236.wav,clean_testset_wav/p257_236.wav,Attendance at the project is a condition of a probation order.
+noisy_testset_wav/p257_378.wav,clean_testset_wav/p257_378.wav,They are good.
+noisy_testset_wav/p257_124.wav,clean_testset_wav/p257_124.wav,That's all right then.
+noisy_testset_wav/p257_393.wav,clean_testset_wav/p257_393.wav,It is not a standing army.
+noisy_testset_wav/p232_077.wav,clean_testset_wav/p232_077.wav,It was chaotic.
+noisy_testset_wav/p257_371.wav,clean_testset_wav/p257_371.wav,This year I understood.
+noisy_testset_wav/p257_305.wav,clean_testset_wav/p257_305.wav,Henman has been warned.
+noisy_testset_wav/p232_113.wav,clean_testset_wav/p232_113.wav,It's not fair.
+noisy_testset_wav/p232_020.wav,clean_testset_wav/p232_020.wav,Many complicated ideas about the rainbow have been formed.
+noisy_testset_wav/p232_173.wav,clean_testset_wav/p232_173.wav,It became a book by itself.
+noisy_testset_wav/p232_398.wav,clean_testset_wav/p232_398.wav,But they are still unlikely to be involved in combat.
+noisy_testset_wav/p232_116.wav,clean_testset_wav/p232_116.wav,Maybe this battle has been.
+noisy_testset_wav/p257_178.wav,clean_testset_wav/p257_178.wav,"In spite of recent advances, the language is still under threat."
+noisy_testset_wav/p257_299.wav,clean_testset_wav/p257_299.wav,and that another interested body should have an option to buy.
+noisy_testset_wav/p232_292.wav,clean_testset_wav/p232_292.wav,The attacker died in the crash.
+noisy_testset_wav/p257_060.wav,clean_testset_wav/p257_060.wav,There was a battle there.
+noisy_testset_wav/p257_025.wav,clean_testset_wav/p257_025.wav,"We have to pull together, or we will hang apart."
+noisy_testset_wav/p257_098.wav,clean_testset_wav/p257_098.wav,They are now divorced.
+noisy_testset_wav/p257_295.wav,clean_testset_wav/p257_295.wav,The plot is minimal.
+noisy_testset_wav/p232_415.wav,clean_testset_wav/p232_415.wav,We have just got to keep his feet on the ground.
+noisy_testset_wav/p257_109.wav,clean_testset_wav/p257_109.wav,I did not think about the Ryder Cup.
+noisy_testset_wav/p257_093.wav,clean_testset_wav/p257_093.wav,He was possessed
+noisy_testset_wav/p232_134.wav,clean_testset_wav/p232_134.wav,You've got to be vigilant.
+noisy_testset_wav/p232_085.wav,clean_testset_wav/p232_085.wav,It's all going to clear the debt.
+noisy_testset_wav/p257_187.wav,clean_testset_wav/p257_187.wav,Saturday is gone.
+noisy_testset_wav/p232_347.wav,clean_testset_wav/p232_347.wav,Sex offender programmes to be retained by public sector.
+noisy_testset_wav/p232_009.wav,clean_testset_wav/p232_009.wav,"There is , according to legend, a boiling pot of gold at one end."
+noisy_testset_wav/p232_342.wav,clean_testset_wav/p232_342.wav,That's not eviction because he is not a tenant.
+noisy_testset_wav/p232_037.wav,clean_testset_wav/p232_037.wav,"Two other men, including the taxi driver, were wounded in the attack."
+noisy_testset_wav/p232_205.wav,clean_testset_wav/p232_205.wav,It's a mixture of everything.
+noisy_testset_wav/p232_245.wav,clean_testset_wav/p232_245.wav,Broke the birdie record.
+noisy_testset_wav/p232_364.wav,clean_testset_wav/p232_364.wav,It is the Holiday programme with a mortgage.
+noisy_testset_wav/p232_023.wav,clean_testset_wav/p232_023.wav,"If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow."
+noisy_testset_wav/p257_380.wav,clean_testset_wav/p257_380.wav,My husband was born in Zimbabwe.
+noisy_testset_wav/p257_318.wav,clean_testset_wav/p257_318.wav,"Finally, he paid for the movie."
+noisy_testset_wav/p232_025.wav,clean_testset_wav/p232_025.wav,Johnson was pretty low.
+noisy_testset_wav/p232_280.wav,clean_testset_wav/p232_280.wav,"Sadly, the revival could not be sustained."
+noisy_testset_wav/p232_129.wav,clean_testset_wav/p232_129.wav,The task force continues to be in discussion with both companies.
+noisy_testset_wav/p257_395.wav,clean_testset_wav/p257_395.wav,I believe the gap is nearly there.
+noisy_testset_wav/p232_238.wav,clean_testset_wav/p232_238.wav,And thought we would get away with it.
+noisy_testset_wav/p232_100.wav,clean_testset_wav/p232_100.wav,It was mayhem.
+noisy_testset_wav/p257_104.wav,clean_testset_wav/p257_104.wav,"That time is not now, however."
+noisy_testset_wav/p257_208.wav,clean_testset_wav/p257_208.wav,I am delighted for Simon.
+noisy_testset_wav/p232_346.wav,clean_testset_wav/p232_346.wav,Tiger is the exception.
+noisy_testset_wav/p257_428.wav,clean_testset_wav/p257_428.wav,It had been in place since last July.
+noisy_testset_wav/p232_327.wav,clean_testset_wav/p232_327.wav,My view has now completely changed.
+noisy_testset_wav/p232_097.wav,clean_testset_wav/p232_097.wav,The oil companies would be asked to contribute.
+noisy_testset_wav/p232_243.wav,clean_testset_wav/p232_243.wav,"It's a lovely, lovely film."
+noisy_testset_wav/p232_400.wav,clean_testset_wav/p232_400.wav,It will probably take me just days to spend it.
+noisy_testset_wav/p232_072.wav,clean_testset_wav/p232_072.wav,That was the easy election.
+noisy_testset_wav/p232_399.wav,clean_testset_wav/p232_399.wav,Pupils were allowed home at lunchtime.
+noisy_testset_wav/p232_190.wav,clean_testset_wav/p232_190.wav,We did everything by the book.
+noisy_testset_wav/p257_345.wav,clean_testset_wav/p257_345.wav,"Instead, he was informed to join the line of creditors."
+noisy_testset_wav/p257_082.wav,clean_testset_wav/p257_082.wav,He liked to give the impression of being a hard man.
+noisy_testset_wav/p232_324.wav,clean_testset_wav/p232_324.wav,We think all other measures are not exhausted.
+noisy_testset_wav/p257_070.wav,clean_testset_wav/p257_070.wav,The price cuts are really exciting.
+noisy_testset_wav/p257_352.wav,clean_testset_wav/p257_352.wav,Then followed a bout of flu.
+noisy_testset_wav/p257_050.wav,clean_testset_wav/p257_050.wav,He had no enemies.
+noisy_testset_wav/p257_174.wav,clean_testset_wav/p257_174.wav,We wanted it left for a wee while.
+noisy_testset_wav/p257_173.wav,clean_testset_wav/p257_173.wav,I feel like my game has come a long way.
+noisy_testset_wav/p257_415.wav,clean_testset_wav/p257_415.wav,We shall be victorious.
+noisy_testset_wav/p257_255.wav,clean_testset_wav/p257_255.wav,He thought he had a month to cross the street.
+noisy_testset_wav/p232_244.wav,clean_testset_wav/p232_244.wav,The Home Office would not release any further details about the group.
+noisy_testset_wav/p257_338.wav,clean_testset_wav/p257_338.wav,The salary changes are long overdue.
+noisy_testset_wav/p232_229.wav,clean_testset_wav/p232_229.wav,What was the main difference ?
+noisy_testset_wav/p257_013.wav,clean_testset_wav/p257_013.wav,Some have accepted it as a miracle without physical explanation.
+noisy_testset_wav/p257_087.wav,clean_testset_wav/p257_087.wav,Florida is the pivotal state in the nation.
+noisy_testset_wav/p257_166.wav,clean_testset_wav/p257_166.wav,You are not going in blind.
+noisy_testset_wav/p257_315.wav,clean_testset_wav/p257_315.wav,I am so upset.
+noisy_testset_wav/p257_163.wav,clean_testset_wav/p257_163.wav,I've put my own money into this project.
+noisy_testset_wav/p257_243.wav,clean_testset_wav/p257_243.wav,I didn't need to watch it on the video.
+noisy_testset_wav/p232_340.wav,clean_testset_wav/p232_340.wav,Who will do it ?
+noisy_testset_wav/p257_284.wav,clean_testset_wav/p257_284.wav,That might be a punishment but it would also punish the patients.
+noisy_testset_wav/p257_085.wav,clean_testset_wav/p257_085.wav,"I, in the meantime, had been far from chilling."
+noisy_testset_wav/p257_269.wav,clean_testset_wav/p257_269.wav,She looked so young.
+noisy_testset_wav/p232_379.wav,clean_testset_wav/p232_379.wav,They have not done so this season so far.
+noisy_testset_wav/p257_175.wav,clean_testset_wav/p257_175.wav,"However, the figures were disputed by the Scottish Prison Service."
+noisy_testset_wav/p232_412.wav,clean_testset_wav/p232_412.wav,Senior management in Scotland threw its weight behind the orchestra.
+noisy_testset_wav/p257_113.wav,clean_testset_wav/p257_113.wav,It's a shame.
+noisy_testset_wav/p257_148.wav,clean_testset_wav/p257_148.wav,It is like a football team.
+noisy_testset_wav/p257_271.wav,clean_testset_wav/p257_271.wav,"For the moment, that is the result of the X-ray."
+noisy_testset_wav/p232_130.wav,clean_testset_wav/p232_130.wav,"Offered the gold medal, he declined."
+noisy_testset_wav/p232_301.wav,clean_testset_wav/p232_301.wav,I thought it was my only chance.
+noisy_testset_wav/p257_264.wav,clean_testset_wav/p257_264.wav,We're in shock.
+noisy_testset_wav/p257_092.wav,clean_testset_wav/p257_092.wav,It is an old family habit.
+noisy_testset_wav/p257_008.wav,clean_testset_wav/p257_008.wav,"These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon."
+noisy_testset_wav/p257_112.wav,clean_testset_wav/p257_112.wav,I don't have many friends.
+noisy_testset_wav/p232_312.wav,clean_testset_wav/p232_312.wav,There is no other solution to congestion in Edinburgh.
+noisy_testset_wav/p232_385.wav,clean_testset_wav/p232_385.wav,"I tried to be cautious, but it's hard in that role."
+noisy_testset_wav/p257_300.wav,clean_testset_wav/p257_300.wav,They were fantastic.
+noisy_testset_wav/p257_230.wav,clean_testset_wav/p257_230.wav,The singer is expected to be in hospital for several days.
+noisy_testset_wav/p232_067.wav,clean_testset_wav/p232_067.wav,Charles Kennedy had an effective outing.
+noisy_testset_wav/p257_302.wav,clean_testset_wav/p257_302.wav,"In fact, they have the opposite effect."
+noisy_testset_wav/p232_115.wav,clean_testset_wav/p232_115.wav,Among them was Gary Robertson from Dundee.
+noisy_testset_wav/p257_285.wav,clean_testset_wav/p257_285.wav,What has altered?
+noisy_testset_wav/p257_049.wav,clean_testset_wav/p257_049.wav,"Yesterday, he had a chilling warning for the game in Scotland."
+noisy_testset_wav/p257_245.wav,clean_testset_wav/p257_245.wav,I will not allow the destruction of the Scottish fishing industry.
+noisy_testset_wav/p232_214.wav,clean_testset_wav/p232_214.wav,She should not be blamed.
+noisy_testset_wav/p257_424.wav,clean_testset_wav/p257_424.wav,"Charlie Gordon, leader of the council, dismissed the suggestion."
+noisy_testset_wav/p232_255.wav,clean_testset_wav/p232_255.wav,"It's a record label, not a form of music."
+noisy_testset_wav/p257_130.wav,clean_testset_wav/p257_130.wav,Buckingham Palace said the appointment was a matter for the prince.
+noisy_testset_wav/p232_082.wav,clean_testset_wav/p232_082.wav,What has changed ?
+noisy_testset_wav/p232_344.wav,clean_testset_wav/p232_344.wav,He has to learn.
+noisy_testset_wav/p232_083.wav,clean_testset_wav/p232_083.wav,That is bound to happen.
+noisy_testset_wav/p232_225.wav,clean_testset_wav/p232_225.wav,We've got the bronze.
+noisy_testset_wav/p257_383.wav,clean_testset_wav/p257_383.wav,The orchestra was already increasing the scope of its ambitions.
+noisy_testset_wav/p257_088.wav,clean_testset_wav/p257_088.wav,Downing Street will make the second appointment in the Scotland Office today.
