@@ -9,7 +9,7 @@ import pysptk
 from scipy.spatial.distance import euclidean
 from fastdtw import fastdtw
 import torch
-import torchaudio.transforms as transforms
+import torchaudio.transforms as transforms as T
 import whisper
 import jiwer
 
